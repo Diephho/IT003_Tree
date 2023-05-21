@@ -1,0 +1,60 @@
+test1.txt
+N = 857051
+logN = 19.709
+1.45logN = 28.5781
+Heigh of tree: 23
+
+test2.txt
+N = 1250550
+logN = 20.2541
+1.45logN = 29.3685
+Heigh of tree: 23
+
+test3.txt
+N = 1003489
+logN = 19.9366
+1.45logN = 28.9081
+Heigh of tree: 24
+
+test4.txt
+N = 1117117
+logN = 20.0913
+1.45logN = 29.1325
+Heigh of tree: 23
+
+test5.txt
+N = 755680
+logN = 19.5274
+1.45logN = 28.3148
+Heigh of tree: 23
+
+test6.txt
+N = 746755
+logN = 19.5103
+1.45logN = 28.2899
+Heigh of tree: 23
+
+test7.txt
+N = 928910
+logN = 19.8252
+1.45logN = 28.7465
+Heigh of tree: 23
+
+test8.txt
+N = 1114703
+logN = 20.0882
+1.45logN = 29.1279
+Heigh of tree: 24
+
+test9.txt
+N = 1048369
+logN = 19.9997
+1.45logN = 28.9996
+Heigh of tree: 24
+
+test10.txt
+N = 935625
+logN = 19.8356
+1.45logN = 28.7616
+Heigh of tree: 23
+
